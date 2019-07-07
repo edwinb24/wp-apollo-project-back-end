@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'broceedwin-server' );
+define( 'DB_NAME', 'cms-brocedesigns' );
 
 /** MySQL database username */
 define( 'DB_USER', 'root' );
